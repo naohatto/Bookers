@@ -54,7 +54,7 @@ td {
     padding-right: 5px;
 }
 
-div.field, div.actions {
+.field, .actions {
     margin-bottom: 10px;
 }
 
@@ -78,7 +78,7 @@ h2 {
     font-weight: bold;
 }
 
-form {
+.form {
     display: block;
     margin-top: 0em;
 }
